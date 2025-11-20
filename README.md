@@ -1,4 +1,6 @@
 # Linear-Regression
+## NAME: ESHWAR T
+## REGISTER NUMBER:212223230054
 
 ## a) Stock Market Prediction using Linear Regression
 
